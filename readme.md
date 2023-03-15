@@ -119,7 +119,7 @@ With this feature, you can mark certain day as non working days.
 
 1. Open the Action configuration 
 
-<img src="public/contextmenu.png" alt=Snippet height="400"/>
+<img src="public/contextMenu.png" alt=Snippet height="400"/>
 
 2. Click new
 
