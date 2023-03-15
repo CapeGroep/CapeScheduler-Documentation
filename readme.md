@@ -99,7 +99,7 @@ You can customize the look of the widget by modifying the snippet
 5. When you click a content, by default the widget will show event detail. You can remove this if necessary. 
 
 ## Example pages using the snippet
-<img src="public/page.png" alt=Snippet height="400"/>
+<img src="public/Page.png" alt=Snippet height="400"/>
 
 1. Use the `Initialize_Scheduler` nanoflow to create the scheduler object
 2. Pass the `Scheduler` object into the snippet
